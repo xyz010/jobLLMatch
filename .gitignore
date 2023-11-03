@@ -400,3 +400,10 @@ FodyWeavers.xsd
 .DS_STORE
 
 *venv/
+
+.ipynb_checkpoints/
+__pycache__/
+__pypackages__/
+.vscode/
+*.code-workspace
+tmp/
